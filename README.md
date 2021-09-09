@@ -10,7 +10,7 @@
 
 - 📫 How to reach me ? **ckieken@protonmail.com**
 
-- ⚡ Fun fact ? **I know a looooot of fun fact !**
+- ⚡ Fun fact ? **I know a looooot of fun facts !**
 _____________________________________________________________
 
 <h3 align="left">Languages and Tools:</h3>
