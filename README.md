@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clementkieken&label=Profile%20views&color=0e75b6&style=flat" alt="clementkieken" /> </p>
 
 
-- 🔭 I’m currently working on my own C.V. in React (Link soon !)
+- 🔭 I’m currently working on a big project called EVADIA for my school graduation project.
 
 - 📫 How to reach me ? **ckieken@protonmail.com**
 
