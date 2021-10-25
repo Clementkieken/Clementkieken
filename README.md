@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clementkieken&label=Profile%20views&color=0e75b6&style=flat" alt="clementkieken" /> </p>
 
 
-- 🔭 I’m currently working on a big project called EVADIA for my school graduation project.
+- 🔭 Here my last team project where I worked as a product owner & developpeur front : https://evadia.tech
 
 - 📫 How to reach me ? **ckieken@protonmail.com**
 
