@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋 Welcome to my page !</h1>
-<h3 align="center">I started recently learning how to code on JavaScript and React, mainly. Here are some projects !</h3>
+<h3 align="center">I recently started learning how to code on JavaScript and React, mainly. Here are some projects !</h3>
 <h3 align="center">I am also a profesionnal editor and I love to make videos content ! :movie_camera: </h3>
 <br>
 
